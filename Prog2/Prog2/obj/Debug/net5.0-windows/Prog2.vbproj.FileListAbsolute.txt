@@ -5,7 +5,6 @@ C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\Wi
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\bin\Debug\net5.0-windows\Prog2.dll
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\bin\Debug\net5.0-windows\ref\Prog2.dll
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\bin\Debug\net5.0-windows\Prog2.pdb
-C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.vbprojAssemblyReference.cache
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.Form1.resources
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.vbproj.GenerateResource.cache
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,3 +15,8 @@ C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\Wi
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\ref\Prog2.dll
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.pdb
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.genruntimeconfig.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.Resources.resources
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.vbprojAssemblyReference.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog2\WindowsProg_Prog2\Prog2\Prog2\obj\Debug\net5.0-windows\Prog2.vbproj.CopyComplete
